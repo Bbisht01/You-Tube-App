@@ -13,18 +13,31 @@ Below, you'll find a step by step explanation.
 
 # Getting a Youtube Data API key
 1.Head over to the Google developers console
+
 2.Create a new project by clicking on Select project drop down right next to the logo. Click the New Project button an give it a speaking name.
+
 3.Select your project by choosing it in the Select Dropdown directly next to the logo in the header.
+
 4.Click the Enable APIs and Services button
+
 5.Search for youtube data
+
 6.Click on the Youtube Data API v3
+
 7.Click the blue enable button
+
 8.In the dashboard, click Credentials on the left sidebar
+
 9.Click the Create Credential button
+
 10.Which API are you using: Youtube Data API v3
+
 11.Where will you be calling the API from: Web browser
+
 12.What data are you accessing: Public data
+
 13.Click the What credentials do I need button
+
 14.Copy the API key
 
 
