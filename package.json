@@ -1,0 +1,23 @@
+{
+  "name": "you-tube-app",
+  "version": "1.0.0",
+  "description": "Hello, welcome.This youtube clone Project is created  using HTML, CSS and JS only. No other library. We have used youtube API to fetch real data from youtube.\r Our clone has a lot of features. like, It's look like youtube. All the video data is coming from youtube directly.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bbisht01/You-Tube-App.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bbisht01/You-Tube-App/issues"
+  },
+  "homepage": "https://github.com/Bbisht01/You-Tube-App#readme",
+  "dependencies": {
+    "dotenv": "^16.0.1"
+  }
+}
